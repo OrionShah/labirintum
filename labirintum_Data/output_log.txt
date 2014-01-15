@@ -7,27 +7,30 @@ Direct3D:
     VRAM:     1008 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
 Begin MonoManager ReloadAssembly
-Platform assembly: S:\Unity3D\Labirintum\builds\v0.7.1\labirintum_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading S:\Unity3D\Labirintum\builds\v0.7.1\labirintum_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: S:\Unity3D\Labirintum\builds\v0.7.1\labirintum_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading S:\Unity3D\Labirintum\builds\v0.7.1\labirintum_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: S:\Unity3D\Labirintum\builds\v0.7.1\labirintum_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading S:\Unity3D\Labirintum\builds\v0.7.1\labirintum_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: S:\Unity3D\Labirintum\builds\v0.7.1\labirintum_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
-Loading S:\Unity3D\Labirintum\builds\v0.7.1\labirintum_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-- Completed reload, in  0.062 seconds
+Platform assembly: S:\GitHub\labirintum\labirintum_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading S:\GitHub\labirintum\labirintum_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: S:\GitHub\labirintum\labirintum_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading S:\GitHub\labirintum\labirintum_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: S:\GitHub\labirintum\labirintum_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading S:\GitHub\labirintum\labirintum_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: S:\GitHub\labirintum\labirintum_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading S:\GitHub\labirintum\labirintum_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: S:\GitHub\labirintum\labirintum_Data\Managed\NGUI.dll (this message is harmless)
+Loading S:\GitHub\labirintum\labirintum_Data\Managed\NGUI.dll into Unity Child Domain
+- Completed reload, in  0.075 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
-UnloadTime: 0.331136 ms
+Platform assembly: S:\GitHub\labirintum\labirintum_Data\Managed\System.dll (this message is harmless)
+UnloadTime: 0.329493 ms
 Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 273.
-Total: 2.776020 ms (FindLiveObjects: 0.019730 ms CreateObjectMapping: 0.013482 ms MarkObjects: 0.168692 ms  DeleteObjects: 2.005890 ms)
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 368.
+Total: 0.792822 ms (FindLiveObjects: 0.027951 ms CreateObjectMapping: 0.016770 ms MarkObjects: 0.188751 ms  DeleteObjects: 0.006576 ms)
 
-UnloadTime: 68.624458 ms
+UnloadTime: 13.147168 ms
 Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
 
-Unloading 94 unused Assets to reduce memory usage. Loaded Objects now: 132.
-Total: 2.632648 ms (FindLiveObjects: 0.023018 ms CreateObjectMapping: 0.016112 ms MarkObjects: 0.141398 ms  DeleteObjects: 1.912829 ms)
+Unloading 95 unused Assets to reduce memory usage. Loaded Objects now: 224.
+Total: 7.350457 ms (FindLiveObjects: 0.067411 ms CreateObjectMapping: 0.046365 ms MarkObjects: 0.385066 ms  DeleteObjects: 5.091358 ms)
 
